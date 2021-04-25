@@ -1,4 +1,4 @@
-# Scripts for Video Quality Assessment related tasks us
+# Scripts for Video Quality Assessment related tasks
 
 Collection of various shell scripts for common video processing tasks. Uses FFmpeg and related packages (FFprobe and FFplay). 
 New scripts will be added on a rolling basis.
